@@ -1,0 +1,9 @@
+Building Magnetocoin
+
+See doc/readme-qt.rst for instructions on building Magnetocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Magnetocoin.
+
+See doc/build-*.txt for instructions on building magnetocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Magnetocoin.
